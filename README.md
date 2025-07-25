@@ -1,0 +1,2 @@
+# Straw_Valley_TradingWeb
+这是一个简单的模拟游戏交易系统的网站
